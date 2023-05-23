@@ -1,5 +1,6 @@
-# Ejemplo carrito de compras con obj y template
+# Ejemplo carrito de compras con objetos y template
 
+## Todo con fines educativos 
 ## Template
 ```html
     <template id="template">
